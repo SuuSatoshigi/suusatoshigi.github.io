@@ -1,7 +1,7 @@
 title: Java竞赛赛前复习(三)(基础语法篇下)
 date: 2014-04-24 10:22
 tags: [Java,竞赛前复习]
-categories: 辅助攻击技能 #文章文类
+categories: 辅助攻击技能
 ---
 
 

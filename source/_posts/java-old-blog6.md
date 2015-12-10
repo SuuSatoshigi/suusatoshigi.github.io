@@ -1,7 +1,7 @@
 title: Java竞赛赛前复习(四)(多线程)
 date: 2014-04-24 10:23
 tags: [Java,竞赛前复习]
-categories: 辅助攻击技能 #文章文类
+categories: 辅助攻击技能
 ---
 
 用一个表格描述完需要描述的区别：
