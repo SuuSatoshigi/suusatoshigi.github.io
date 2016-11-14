@@ -2,6 +2,7 @@ title: Java竞赛赛前复习(二)(省略参数与变长参数方法的优化)
 date: 2014-04-24 10:21
 tags: [Java,竞赛前复习]
 categories: 辅助攻击技能
+description: Java关于变长参数方法的优化～
 ---
 
 <b>变长参数方法的优化 </b>

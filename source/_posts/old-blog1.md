@@ -2,6 +2,8 @@ title: RSA加密算法在iOS9下的问题解决方案 #可以改成中文的，�
 date: 2015-10-31 19:04 #发表日期，一般不改动
 tags: [iOS]
 categories: 主攻击技能
+comments: true＃文章评论
+description: 关于加密算法的一些个人见解，但不一定完全正确
 ---
 
 本人于2015年5月写的可运行的RSA加密解密算法，升级到iOS9之后，到`SecItemAdd`就crash掉了。

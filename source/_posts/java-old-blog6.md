@@ -2,6 +2,7 @@ title: Java竞赛赛前复习(四)(多线程)
 date: 2014-04-24 10:23
 tags: [Java,竞赛前复习]
 categories: 辅助攻击技能
+description: Java是怎么处理多线程的呢？看本文就知道啦～
 ---
 
 用一个表格描述完需要描述的区别：

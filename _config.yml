@@ -90,38 +90,38 @@ deploy:
   branch: master
 
 
-#主题设置
-fancybox: true ## If you want to use fancybox please set the value to true
-duoshuo: ## Your duoshuo_shortname, e.g. haomwei
-disqus: suusatoshigi## Your disqus_shortname, e.g. haomwei
-google_search: true ## Use Google search, true/false
-baidu_search: true## Use Baidu search, true/false
-swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
-tinysou: ## Your tinysou_key, e.g. 4ac092ad8d749fdc6293
-menu:
-  - page: home
-    directory: /
-    icon: icon-home
-  - page: archive
-    directory: archives/
-    icon: icon-archive
-  - page: about
-    directory: about/
-    icon: icon-about
-  - page: rss
-    directory: atom.xml
-    icon: icon-rss
-links:
-  - title: Github
-    url: https://github.com/SuuSatoshigi
-  - title: CSDN
-    url: http://blog.csdn.net/u010558548/article/
-  - title: personal-resume
-    url: index.html
+# #主题设置
+# fancybox: true ## If you want to use fancybox please set the value to true
+# duoshuo: ## Your duoshuo_shortname, e.g. haomwei
+# disqus: suusatoshigi## Your disqus_shortname, e.g. haomwei
+# google_search: true ## Use Google search, true/false
+# baidu_search: true## Use Baidu search, true/false
+# swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
+# tinysou: ## Your tinysou_key, e.g. 4ac092ad8d749fdc6293
+# menu:
+#   - page: home
+#     directory: /
+#     icon: icon-home
+#   - page: archive
+#     directory: archives/
+#     icon: icon-archive
+#   - page: about
+#     directory: about/
+#     icon: icon-about
+#   - page: rss
+#     directory: atom.xml
+#     icon: icon-rss
+# links:
+#   - title: Github
+#     url: https://github.com/SuuSatoshigi
+#   - title: CSDN
+#     url: http://blog.csdn.net/u010558548/article/
+#   - title: personal-resume
+#     url: index.html
 
-#代码高亮
-highlight:
-  enable: true
-  auto_detect: true
-  line_number: true
-  tab_replace:
+# #代码高亮
+# highlight:
+#   enable: true
+#   auto_detect: true
+#   line_number: true
+#   tab_replace: 

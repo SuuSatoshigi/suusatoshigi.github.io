@@ -2,6 +2,8 @@ title: 关于11月28号SegmentFault D-DAY沙龙
 date: 2015-11-27 10:02:35
 tags: [iOS]
 categories: 主攻击技能 
+comments: true＃文章评论
+description: 参加了一场沙龙后的总结
 ---
 沙龙议题有《百川开放平台iOS架构实践》《第三方框架的设计》《iOS远程日志系统》《程序员的自我修养》。
 

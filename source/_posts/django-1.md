@@ -2,6 +2,7 @@ title: django初探
 date: 2015-12-09 21:05:44
 tags: [python,django]
 categories: 辅助攻击技能 
+description: 学习django的时候想到了一些比较好玩的总结，可能就我觉得好玩吧
 ---
 
 对linux/unix的世界，万物皆文件，这一点都没错的。

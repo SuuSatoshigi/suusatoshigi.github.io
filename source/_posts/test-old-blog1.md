@@ -2,7 +2,9 @@ title: app测试篇（一）
 date: 2015-10-30 10:39
 tags: [移动端测试, iOS]
 categories: 辅助攻击技能 
-
+toc: true ＃显示目录
+comments: true＃文章评论
+description: 看了《移动测试》的观后感
 ---
 
 
